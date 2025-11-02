@@ -88,8 +88,8 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             At Gurukrupa Shravayantra Kendra, we craft innovative software solutions that drive
-            business growth. From concept to deployment, we're your trusted technology partner in
-            Mumbai's dynamic digital landscape.
+            business growth. From concept to deployment, we&apos;re your trusted technology partner in
+            Mumbai&apos;s dynamic digital landscape.
           </motion.p>
 
           <motion.div

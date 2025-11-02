@@ -98,7 +98,7 @@ const Contact = () => {
             animate={inView ? { opacity: 1, y: 0 } : {}}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            Ready to start your project? Contact us today and let's build something amazing together
+            Ready to start your project? Contact us today and let&apos;s build something amazing together
           </motion.p>
         </div>
 
@@ -111,7 +111,7 @@ const Contact = () => {
           >
             <h3 className="text-2xl font-bold text-navy-primary mb-6">Contact Information</h3>
             <p className="text-gray-600 mb-8">
-              Have a question or want to discuss your project? We're here to help. Reach out to us
+              Have a question or want to discuss your project? We&apos;re here to help. Reach out to us
               through any of the following channels.
             </p>
 
@@ -252,7 +252,7 @@ const Contact = () => {
                   animate={{ opacity: 1, y: 0 }}
                   className="mt-4 p-4 bg-green-50 border border-green-200 rounded-lg text-green-700 text-sm"
                 >
-                  Thank you! Your message has been sent successfully. We'll get back to you soon.
+                  Thank you! Your message has been sent successfully. We&apos;ll get back to you soon.
                 </motion.div>
               )}
 

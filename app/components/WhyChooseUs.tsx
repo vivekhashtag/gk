@@ -96,7 +96,7 @@ const WhyChooseUs = () => {
             animate={inView ? { opacity: 1, y: 0 } : {}}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            Your success is our mission - here's what makes us different
+            Your success is our mission - here&apos;s what makes us different
           </motion.p>
         </div>
 
